@@ -1,0 +1,200 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.header{
+	background-color: black;
+	height: 100px;
+}
+.icon-img{
+	float: left;
+	padding-left: 10px;
+}
+.spotify_icon{ 
+	display: inline;
+	margin: 20px 20px;
+	padding: 80px; 
+}
+
+.container ul{
+	float: right;
+	clear: right;
+}
+.container li{
+	display: inline;
+}
+
+.container li a{
+	/*display: block;*/
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.container li a:hover {
+	background-color: #111; 
+}
+
+h2{
+	text-align: center;
+	font-size: 500px;
+}
+.email-enter{
+	display: inline-block;
+	width: 50%;
+	padding: 20px 43%;
+	font-size: 15px;
+	/*float : center;*/
+}
+.face{
+	padding: 20px 30px;
+	font-size: 20px;
+}
+
+.middle{
+	/*margin: 0 auto;*/
+	background-image: url(https://www.scdn.co/i/generic/hero-lg.jpg);	
+}
+
+.middle-text{
+	color: white;
+	font-size: 60px;
+	font-family: serif;
+	padding: 30px 15% ;
+	text-align: center;
+}
+
+.second-middle{
+	color: white;
+	font-size: 30px;
+	font-family: sans-serif;
+	padding: 10px;
+	text-align: center;
+}
+.email-enter{
+	width: 200px;
+	margin: 0 auto;
+
+}
+
+h2.container1{
+	text-align: center;
+	font-size: 40px;
+	font-family: sans-serif;
+	padding: 50px 10%;
+}
+.para{
+	padding: 10px 0;
+	font-family: sans-serif;
+	font-size: 12px;
+}
+.text_al{
+	text-align: center;
+}
+
+.cont1{
+	display: inline-block;
+	padding: 10px 20px;
+}
+.cont2{
+	display: inline-block;
+	padding: 10px 20px;
+}
+
+.cont3{
+	display: inline-block;
+	padding: 10px 20px;
+}
+
+.cont4{
+	display: inline-block;
+	padding: 10px 20px;
+}
+
+.inline{
+	display: inline-block;
+}
+
+.face{
+	text-align: center;
+
+}
+
+.footer{
+	background-color: black;
+}
+
+.footer_icon{
+	width: 100px;
+	/*padding-left: 0;
+	padding-top: 10px;
+	padding-right: 10px;
+	*/
+}
+
+.a{
+	/*width: 33.3% */
+	padding: 30px 30px;
+}
+
+.a1{
+	padding: 30px 30px;
+}
+
+.pady li{
+	padding: 10px 50px;
+}
+.indent a{
+	padding: 20px 12px;
+	font-size: 10px;
+}
+.last{
+	padding-left: 100px;
+	font-family: sans-serif;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+/*.icons ul li .insta{
+	width: 100%;
+	height: auto;
+}*/
+.icons{
+	float: right;
+	padding-right: 120px;
+}
+./*icons ul li a{
+	display: inline-block;
+}*/
+
+.fb{
+	width: 20px;
+}
+.sign-up{
+padding: 5px;
+}
+.mar{
+	float: right;
+	padding-right: 80px;
+	font-family: sans-serif;
+	font-size: 13px;} 
+/*.m{
+	text-align: center;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
